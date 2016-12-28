@@ -1,0 +1,27 @@
+{
+  "name": "node-file-service",
+  "version": "1.0.0",
+  "description": "nodejs file service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guodong/node-file-service.git"
+  },
+  "keywords": [
+    "node-file-service"
+  ],
+  "author": "guodong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guodong/node-file-service/issues"
+  },
+  "homepage": "https://github.com/guodong/node-file-service#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "multer": "^1.2.1",
+    "yargs": "^6.5.0"
+  }
+}
