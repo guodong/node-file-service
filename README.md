@@ -5,13 +5,18 @@ File service over http
 
 ## Install
 
-### as a library
 ```sh
 $ npm install -g node-file-service
 ```
 
-## Run
+## Usage
 
 ```sh
 $ node-file-service
 ```
+
+## Available Options:
+
+`-p` Port to use (defaults to 8000)
+
+`-d` Storage folder to use (defaults to './')
