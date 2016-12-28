@@ -1,6 +1,6 @@
 {
   "name": "node-file-service",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "nodejs file service",
   "main": "index.js",
   "scripts": {
